@@ -4,7 +4,7 @@ In this project, I implemented twelve different sorting algorithms.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX SE.
 
 ## Helper Files :raised_hands:
 
@@ -17,6 +17,7 @@ doubly-linked list. Provided by ALX SE.
 
 * [sort.h](./sort.h): Header file containing definitions and prototypes for
 all types and functions written for the project.
+
 Data Structure:
 
 ```
